@@ -181,11 +181,3 @@ This project highlights the importance of data analytics in modern businesses an
 
 ---
 
-## 🎯 (Optional for Extra Marks) Recommendations
-
-* Focus on high-performing regions to maximize revenue
-* Optimize shipping strategies to increase profit margins
-* Promote high-profit products rather than just high-sales products
-* Improve performance in low-performing markets
-
----
